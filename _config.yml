@@ -14,7 +14,7 @@ timezone: Asia/Seoul # 시간대를 Asia/Seoul(한국 표준시)로 변경하려
 # jekyll-seo-tag 설정 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 이동현의 개발 블로그 # 메인 제목
+title: eastsage # 메인 제목
 
 tagline: 백엔드 개발자 이동현의 개발 블로그 # 부제목으로 표시됩니다.
 
@@ -119,9 +119,9 @@ comments:
   # Giscus 옵션 › https://giscus.app
   giscus:
     repo: eastsage/eastsage.github.io # <gh-username>/<repo>
-    repo_id: R_kgDONiJ2Qw
+    repo_id: R_kgDONlSk3g
     category: Announcements
-    category_id: DIC_kwDONiJ2Q84ClqtH
+    category_id: DIC_kwDONlSk3s4ClsSH
     mapping: # 선택 사항, 기본값은 'pathname'
     strict: # 선택 사항, 기본값은 '0'
     input_position: # 선택 사항, 기본값은 'bottom'
