@@ -93,7 +93,7 @@ theme_mode: # [light | dark]
 # 지정된 경우, 모든 미디어 리소스(아바타, 게시물 이미지, 오디오 및 비디오 파일)의 경로 앞에 CDN URL이 추가됩니다.
 #
 # 예: 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+#cdn: "https://chirpy-img.netlify.app"
 
 # 사이드바에 표시되는 아바타. 로컬 또는 CORS 리소스를 지원합니다.
 avatar: "https://avatars.githubusercontent.com/u/80168287?v=4"

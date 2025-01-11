@@ -69,7 +69,7 @@ OIDC(OpenID Connect)는 OAuth 2.0을 확장하여 "사용자 인증(Authenticati
 따라서, OAuth 2.0보다 보안성이 높고, 인증 과정이 더 간단하며, 서버 부하를 줄일 수 있다.
 
 ### ✅ 네트워크 요청 감소로 성능 향상
-![flows](https://file.notion.so/f/f/51c7b4fb-08b6-453b-8338-ba68e6d944f1/6cb97050-e842-4815-bc34-843bd8b61182/image.png?table=block&id=9a62bae5-e75d-4d62-a2ac-c5fee7897b2d&spaceId=51c7b4fb-08b6-453b-8338-ba68e6d944f1&expirationTimestamp=1736344800000&signature=TFU6rJ2E7DlyQqVy4LOgXLb_j9IVWyYNeE891kzQ5l4&downloadName=image.png){: width="972" height="589" }
+![flows](/assets/img/240108/apicnt.jpg){: width="972" height="589" }
 OIDC에서는 `/userinfo` API를 호출할 필요 없이 ID Token만으로 인증할 수 있으므로 네트워크 부하가 줄어든다.
 즉, OAuth 2.0보다 로그인 속도가 빨라지고, 서버 부하가 감소한다.
 
