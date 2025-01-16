@@ -59,7 +59,7 @@ webmaster_verifications:
 # 웹 분석 설정
 analytics:
   google:
-    id: # Google Analytics ID를 입력하세요.
+    id: G-CDH0DX5DSM
   goatcounter:
     id: # GoatCounter ID를 입력하세요.
   umami:
