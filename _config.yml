@@ -46,7 +46,7 @@ social:
 
 # 사이트 인증 설정
 webmaster_verifications:
-  google: # Google 인증 코드를 입력하세요.
+  google: yCFgzXbWgzPibVzP0dpZm5L4Nuom2wRxoJwQ2FWyb5g
   bing: # Bing 인증 코드를 입력하세요.
   alexa: # Alexa 인증 코드를 입력하세요.
   yandex: # Yandex 인증 코드를 입력하세요.
@@ -56,7 +56,7 @@ webmaster_verifications:
 # ↑ --------------------------
 # `jekyll-seo-tag` 설정 끝
 
-google_site_verification: yCFgzXbWgzPibVzP0dpZm5L4Nuom2wRxoJwQ2FWyb5g
+#google_site_verification: yCFgzXbWgzPibVzP0dpZm5L4Nuom2wRxoJwQ2FWyb5g
 
 # 웹 분석 설정
 analytics:
